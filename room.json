@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Sri PG",
+        "location": "Chennai",
+        "type": "Single",
+        "rent": 8000
+    },
+    {
+        "id": 2,
+        "name": "Happy Stay",
+        "location": "Coimbatore",
+        "type": "Double",
+        "rent": 6000
+    }
+]
